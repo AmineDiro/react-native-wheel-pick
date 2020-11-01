@@ -34,7 +34,7 @@ class WheelCurvedPicker extends PureComponent {
   static defaultProps = {
     textSize: 26,
     itemSpace: 20,
-    textColor: '#333',
+    textColor: '#fff',
   };
 
   state = {}
